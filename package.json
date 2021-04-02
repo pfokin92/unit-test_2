@@ -1,0 +1,31 @@
+{
+  "name": "unit-test_2",
+  "version": "1.0.0",
+  "description": "Matchers",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfokin92/unit-test_2.git"
+  },
+  "author": "pfokin92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfokin92/unit-test_2/issues"
+  },
+  "homepage": "https://github.com/pfokin92/unit-test_2#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.13.14",
+    "@babel/core": "^7.13.14",
+    "@babel/preset-env": "^7.13.12",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.23.0",
+    "eslint-plugin-react": "^7.23.1",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "core-js": "^3.10.0"
+  }
+}
